@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/Inventory/BPC_Inventory.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/Inventory/BP_Item.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/Inventory/BPI_Inventory.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/Inventory/BPI_PickUp.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/Inventory/WB_Inventory.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/Inventory/WB_Item.uasset",
+				"E:/Kuliah/Sem 5/Game/Inventory/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K1/7ZU2BZNHUKYVMZWZEMIKKH.uasset"
+			]
+		}
+	]
+}
